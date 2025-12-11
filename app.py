@@ -17,7 +17,7 @@ def main():
     df = load_temperature_data(data_path)
     
     # Validate
-    print("2. Validating data...")
+    print("\n2. Validating data...")
     validate_data(df)
     
     # Calculate statistics

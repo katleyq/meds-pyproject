@@ -38,7 +38,7 @@ def calculate_monthly_means(df, column='temperature'):
     pd.Series
         Monthly mean temperatures
     """
-    # TODO: Students will implement this using Copilot
+    # TODO: Using Copilot, implement this function to return monthly means.
     pass
 
 
